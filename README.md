@@ -1,2 +1,2 @@
 # aula_front_ucs
-material desenvolvido em aula na universidade cruzeiro do sul
+pilulas desenvolvidas em aula de desenvolvimento front-end para web na universidade cruzeiro do sul
